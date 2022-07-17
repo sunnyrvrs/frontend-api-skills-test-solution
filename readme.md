@@ -1,5 +1,11 @@
 # Crescendo Collective - Frontend Skill Test
 
+## Instructions by Sunny Rivers ->
+
+For this project I utilized React for the frontend to build out the recipes list and all the other functionality required in this challenge.
+
+To start the React server, simply cd into the folder named "sunnys-solution" and enter in the command "npm start". For this app to work, you also need to start the API (instructions below) which is the main parent directory of the React directory.
+
 ## Goals
 
 For this javascript project we've provided a recipe API with two endpoints. With this API you'll need to complete the following objectives.
